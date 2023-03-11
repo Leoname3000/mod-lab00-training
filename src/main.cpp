@@ -1,8 +1,8 @@
 // Copyright 2022 UNN-IASR
-#include "fun.h"
 #include <iostream>
+#include "fun.h"
 
 int main() {
-    std::cout << power(5,2);
+    std::cout << power(5, 2);
     return 0;
 }
